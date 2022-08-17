@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> Cambio de Sandy pero con lo que explico que me perdi un poco, Hola Mirko porque no me saLe,pipipipi.
         </p>
+        <h1>Hola soy sandy</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
